@@ -18,7 +18,6 @@ Create a word translator that translates English Word to Hindi
 
 2. RNN Word Translator Model
 - Created a Seq2Seq RNN Word Translator Model to translate word from English to Hindi
-- Created a LSTM Model to translate English Word to Hindi Word
 - Loaded the XML training file using the library xml.etree.ElementTree and extracted English words as input_texts and Hindi words as target_texts
 - Tokenized the data using tensorflow.keras.preprocessing.text.Tokenizer(filters='')
 - Created a sequential model using keras.Sequential() under the Tensorflow library
