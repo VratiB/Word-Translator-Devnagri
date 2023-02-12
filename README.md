@@ -11,7 +11,7 @@ Create a word translator that translates English Word to Hindi
 - Loss on Training data is 0.16
 - Tested the model on the Testing data using loss function as 'categorical_crossentropy'
 - Loss on Testing data is 1.70
-- Models accuracy on testing data is 0.86
+- Models accuracy on testing data is 86%
 - Python code file is uploaded as 'Word-Translation-LSTM-model'
 - LSTM Model uploaded is 'LSTM-wordTranslator.h5'
 
@@ -26,7 +26,7 @@ Create a word translator that translates English Word to Hindi
 - Loss on Training data is 0.067
 - Tested the model on the Testing data using loss function as 'categorical_crossentropy'
 - Loss on Testing data is 1.78
-- Models accuracy on testing data is 0.8644
+- Models accuracy on testing data is 86.44%
 - Python code file is uploaded as 'Word-Translation-RNN2'
 - RNN Model uploaded is 'RNN-wordTranslator.h5'
 
